@@ -1,0 +1,72 @@
+.cricketer-bg-container{
+    background-color:#fb4e71 ;
+
+}
+
+.rahul-image{
+    height:150px;
+    margin:10px
+}
+
+.cricekter-card{
+    padding: 20px;
+}
+.bg-container-heading{
+    color: white;
+}
+
+.criceketer-description{
+    color: white;
+    
+}
+
+.button-section-bd-container{
+    background-color: rgb(186, 238, 238);
+}
+
+.heading1{
+    padding: 10px;
+    font-family: Roboto;
+    font-weight: border;
+
+}
+
+.container-card{
+    margin:20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.card-text{
+    margin: 10px;
+    
+}
+
+.text-heading{
+    font-family: Roboto;
+}
+
+.text-description{
+    font-family: Roboto;
+    color:grey;
+}
+
+.vedio-container{
+    width: 150px;
+    margin: 10px;
+}
+
+.vedio-image{
+    width: 150px;
+}
+
+.button1-section-container{
+    margin:20px;
+}
+
+.footer{
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+
